@@ -1,6 +1,5 @@
 [user]
-	name = Vasili Svirydau
-	email = vasili.svirydau@move.com
-
-[push]
-    default = simple
+	name = Robert David
+	email = @robertdavid010
+[core]
+	editor = vim
